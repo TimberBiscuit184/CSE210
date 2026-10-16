@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\bin\Debug\net9.0\weekTwo.exe
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\bin\Debug\net9.0\weekTwo.deps.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\bin\Debug\net9.0\weekTwo.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\bin\Debug\net9.0\weekTwo.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\bin\Debug\net9.0\weekTwo.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\refint\weekTwo.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\weekTwo.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekTwo\obj\Debug\net9.0\ref\weekTwo.dll
