@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\bin\Debug\net9.0\weekThree.exe
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\bin\Debug\net9.0\weekThree.deps.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\bin\Debug\net9.0\weekThree.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\bin\Debug\net9.0\weekThree.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\bin\Debug\net9.0\weekThree.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\refint\weekThree.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\weekThree.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekThree\weekThree\obj\Debug\net9.0\ref\weekThree.dll
