@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\bin\Debug\net9.0\weekFour.exe
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\bin\Debug\net9.0\weekFour.deps.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\bin\Debug\net9.0\weekFour.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\bin\Debug\net9.0\weekFour.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\bin\Debug\net9.0\weekFour.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\refint\weekFour.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\weekFour.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFour\obj\Debug\net9.0\ref\weekFour.dll
