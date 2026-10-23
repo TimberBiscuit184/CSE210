@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\bin\Debug\net9.0\weekFive.exe
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\bin\Debug\net9.0\weekFive.deps.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\bin\Debug\net9.0\weekFive.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\bin\Debug\net9.0\weekFive.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\bin\Debug\net9.0\weekFive.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\refint\weekFive.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\weekFive.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\weekFive\obj\Debug\net9.0\ref\weekFive.dll
