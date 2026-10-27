@@ -1,0 +1,14 @@
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\bin\Debug\net8.0\YouTube.exe
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\bin\Debug\net8.0\YouTube.deps.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\bin\Debug\net8.0\YouTube.runtimeconfig.json
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\bin\Debug\net8.0\YouTube.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\bin\Debug\net8.0\YouTube.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.AssemblyInfoInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.AssemblyInfo.cs
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.csproj.CoreCompileInputs.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\refint\YouTube.dll
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.pdb
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\YouTube.genruntimeconfig.cache
+C:\Users\colby\OneDrive\Documents\classes\fall2026\CSE210\Foundation4\YouTube (Abstraction)\obj\Debug\net8.0\ref\YouTube.dll
